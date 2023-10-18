@@ -8,7 +8,7 @@
 
 1. Склонируйте репозиторий на свой локальный компьютер.
 
-git clone https://github.com/your_username/your_project.git
+git clone [https://github.com/your_username/your_project.git](https://github.com/Bereg48/Works-as-a-cocktail-compiler.git)
 
 
 2. Установите все необходимые зависимости.
