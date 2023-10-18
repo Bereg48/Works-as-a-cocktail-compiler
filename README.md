@@ -9,12 +9,10 @@
     Команда для Windows:
         1- python -m venv venv
         2- venv\Scripts\activate
-        3- pip install -r requirement.txt
 
     Команда для Unix:
         1- python3 -m venv venv
         2- source venv/bin/activate 
-        3- pip install -r requirement.txt
 
 ### 2. Склонируйте репозиторий на свой локальный компьютер:
         1- git clone [https://github.com/your_username/your_project.git](https://github.com/Bereg48/Works-as-a-cocktail-compiler.git)
